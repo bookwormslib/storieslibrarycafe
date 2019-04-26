@@ -10,8 +10,8 @@ content:
         by: default
         dir: asc
         custom:
-            - _highlights
-            - _showcase            
+            - _showcase
+            - _highlights                        
             - _callout
             - _bottom
             - _contact
