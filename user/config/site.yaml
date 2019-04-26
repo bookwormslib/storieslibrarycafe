@@ -1,7 +1,7 @@
-title: Deliver
+title: "#Stories Library Cafe"
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@email.com'                   # Default author email
+  name: "#Stories Library Cafe"                      # Default author name
+  email: 'info@storieslibrary.in'                   # Default author email
   copyright: "Copyright 2019 #Stories Library Cafe. All Rights Reserved."
 social:
   - url: 'https://twitter.com/getgrav'
