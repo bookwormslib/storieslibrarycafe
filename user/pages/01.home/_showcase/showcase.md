@@ -18,7 +18,7 @@ slides:
     button_text: DONEC
     button_url: http://learn.getgrav.org  
   - image: image4.png
-    heading: "Library delivered to your home"
+    heading: "<strong>Library</strong> delivered to your <strong>home</strong>"
     button_text: CRAS
     button_url: http://learn.getgrav.org 
   - image: image5.jpg
