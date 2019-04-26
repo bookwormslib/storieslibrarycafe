@@ -1,20 +1,21 @@
-title: Deliver
+title: #Stories Library Cafe
 author:
   name: John Appleseed                      # Default author name
   email: 'john@email.com'                   # Default author email
-  copyright: "Copyright 2013 Deliver. All Rights Reserved."
+  copyright: "Copyright 2019 #Stories Library Cafe. All Rights Reserved."
 social:
   - url: 'https://twitter.com/getgrav'
     icon: 'twitter'
-  - url: '#'
+  - url: 'https://www.facebook.com/storieslibrarycafe/'
     icon: 'facebook'
-  - url: 'blog.rss'
-    icon: 'rss'
 contact:
   address:
-    - line: "222 Ave C South"
-    - line: "Saskatoon, Saskatchewan"
-    - line: "Canada S7K 2N5"
+    - line: "575/2"
+    - line: "Near TNSC Bank / Sub Registrar office "
+    - line: "14th Street"
+    - line: "4th Sector"
+    - line: "K.K Nagar"
+    - line: "Chennai"
   gps: 1.306.222.3456  
 othermenu:
   - text: "About"
@@ -65,7 +66,7 @@ footer:
     links_title: "Quick Links"
     newsletter_title: "Newsletter"
     newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
-    copyright_text: "Copyright 2013 Deliver. All Rights Reserved."
+    copyright_text: "Copyright 2019 #Stories Library Cafe. All Rights Reserved."
     feedburner: ""   # Your feedburner id for Newsletter footer modul
 
 
