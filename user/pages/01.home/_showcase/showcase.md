@@ -17,14 +17,13 @@ slides:
     subheading: "Library with a Cafe and vice versa"
     button_text: DONEC
     button_url: http://learn.getgrav.org  
-  - image: image4.jpg
+  - image: image4.png
     heading: "Library delivered to your home"
     button_text: CRAS
     button_url: http://learn.getgrav.org 
   - image: image5.jpg
-    subheading: "Get ready for the hot"
-    button_text: CRAS
-    button_url: http://learn.getgrav.org 
+    heading: "<strong>Get ready for the hot</strong>"
+
 
 ---
 
