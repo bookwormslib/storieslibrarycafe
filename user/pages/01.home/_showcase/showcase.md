@@ -13,7 +13,7 @@ slides:
     button_text: LOREM
     button_url: http://learn.getgrav.org
   - image: image3.jpg
-    heading: "A neighbourhood place for your <strong>wants</strong>"
+    heading: "A neighbourhood place for your <strong>hangout</strong>"
     subheading: "Library with a Cafe and vice versa"
     button_text: DONEC
     button_url: http://learn.getgrav.org  
