@@ -1079,7 +1079,7 @@ ul.pagination {
     color: #FFFFFF; }
 .modular .slideme_container {
   overflow: hidden;
-  margin-top: -15rem;
+  margin-top: 0rem;
   padding-top: 15rem;
   height: 34.7rem; }
   .modular .slideme_container:after {
