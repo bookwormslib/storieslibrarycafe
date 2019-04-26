@@ -1613,8 +1613,8 @@ ul.pagination {
 .logo {
   border-bottom: 1px solid #eaeaea; }
   .logo h3 {
-    font-size: 2.5rem;
-    font-family: "Pacifico", "monospace";
+  /*  font-size: 2.5rem;
+   font-family: "Pacifico", "monospace"; */
     line-height: 2rem;
     margin: 0;
     float: left; }
