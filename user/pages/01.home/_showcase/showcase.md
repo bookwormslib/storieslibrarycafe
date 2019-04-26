@@ -4,22 +4,25 @@ menu: Top
 slides:
   - image: image1.jpg
     heading: "We <strong>deliver</strong> nothing short of awesome !"
-    subheading: "Check out our portfolio to see our great work.."
+    subheading: "Check out our awesome menu for mouth watering recipes.."
     button_text: PORTFOLIO
     button_url: http://learn.getgrav.org
   - image: image2.jpg
-    heading: "Aenean lacinia <strong>bibendum</strong> nulla sed consectetur. !"
-    subheading: "Etiam porta sem malesuada magna mollis euismod.."
+    heading: "Take a <strong>break</strong>"
+    subheading: "Enjoy peace like never before"
     button_text: LOREM
     button_url: http://learn.getgrav.org
   - image: image3.jpg
-    heading: "Cras  <strong>justo</strong> odio, dapibus ac facilisis in, quam.. !"
-    subheading: "Donec ullamcorper nulla non metus auctor fringilla.."
+    heading: "A neighbourhood place for your <strong>wants</strong>"
+    subheading: "Library with a Cafe and vice versa"
     button_text: DONEC
     button_url: http://learn.getgrav.org  
   - image: image4.jpg
-    heading: "Sed <strong>posuere</strong> consectetur est at lobortis. !"
-    subheading: "Cras mattis consectetur purus sit amet fermentum.."
+    heading: "Library delivered to your home"
+    button_text: CRAS
+    button_url: http://learn.getgrav.org 
+  - image: image5.jpg
+    subheading: "Get ready for the hot"
     button_text: CRAS
     button_url: http://learn.getgrav.org 
 
