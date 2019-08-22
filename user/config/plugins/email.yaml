@@ -1,6 +1,6 @@
 enabled: true
-from: your@email.here
-to: your@email.here
+from: info@storieslibrary.in
+to: tesnorindian@gmail.com
 mailer:
   engine: mail
   smtp:
@@ -10,4 +10,4 @@ mailer:
     user: ''
     password: ''
   sendmail:
-    bin: '/usr/sbin/sendmail'
+    bin: '/usr/sbin/sendmail -bs'
