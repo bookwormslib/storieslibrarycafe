@@ -1,6 +1,6 @@
 enabled: true
 from: info@storieslibrary.in
-to: tesnorindian@gmail.com
+to: info@storieslibrary.in
 mailer:
   engine: mail
   smtp:
