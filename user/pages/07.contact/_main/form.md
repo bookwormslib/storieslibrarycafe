@@ -6,21 +6,21 @@ process:
 ---
 
 #### Our Location
-We just moved to our new location down the block right beside Subway.
+We just moved to our new location near TNSC Bank.
 
-9 - 3815 Thatcher Avenue <br />
-Saskatoon, Saskatchewan <br />
-S7R 1A3 <br />
+ 575/2 Near TNSC Bank / Sub Registrar office 14th Street <br />
+ 4th Sector <br />
+ K.K Nagar
+ Chennai <br />
 
 #### Contact Information
-**Email:**  		 		info@yastech.ca <br />
-**Primary Phone:**   		1 (306) 249 - 9609 <br />
-**Alternate Phone:**   		1 (306) 249 - 9612 <br />
-**Fax:**   				1 (306) 931 - 6739 <br />
+**Email:**  		 		info@storieslibrary.in <br />
+**Primary Phone:**   		+91-044-42698327 <br />
+**Alternate Phone:**   		+91 98844 58327 <br />
 
 #### Office Hours
-Monday - Friday			8 am - 5 pm <br />
-Saturday - Sunday			Closed <br />
-Holidays					Closed <br />
+Tuesday - Sunday			9 am - 8 pm <br />
+Monday			Closed <br />
+Holidays		Closed <br />
 
 * Feel free to email or call us after hours.
