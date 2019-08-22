@@ -1,6 +1,6 @@
 enabled: true
-from: info@storieslibrary.in
-from_name: Stories
+from: 
+from_name: 
 to:
 to_name:
 queue:
